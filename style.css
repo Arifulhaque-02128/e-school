@@ -1,0 +1,59 @@
+.div1{
+    margin-bottom: 50px;
+}
+.navItem:hover{
+    font-weight: bold;
+    font-size: larger;
+}
+.logo{
+    width: 150px;
+    height: 60px;
+}
+.photo{
+    width: 400px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.row{
+    padding: 30px;
+}
+.cards{
+    width: 150px;
+    height: 120px;
+    padding-left: 20px;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box:hover{
+    box-shadow: 5px 5px 10px gray;
+}
+.card{
+    padding: 10px;
+}
+.card:hover{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 15px;
+}
+.bottom-logo{
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+    margin-right: 5px;
+
+}
+.footer li{
+    list-style: none;
+    color: white;
+}
+.footer-header{
+    margin-left: 40px;
+    color: white;
+}
+#footer-header{
+    padding-left: 30px;
+}
+
+

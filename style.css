@@ -5,7 +5,7 @@
     font-weight: bold;
     font-size: larger;
 }
-.logo{
+#logo{
     width: 150px;
     height: 60px;
 }
@@ -21,16 +21,19 @@
 .cards{
     width: 150px;
     height: 120px;
-    padding-left: 20px;
-    margin-left: 15px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    padding: 10px;
+    margin: 20px;
+
 }
 .box:hover{
     box-shadow: 5px 5px 10px gray;
 }
 .card{
     padding: 10px;
+    border-radius: 20px !important;
+}
+#card-footer{
+    border: none;
 }
 .card:hover{
     box-shadow: 5px 5px 10px gray;
@@ -40,8 +43,6 @@
 .bottom-logo{
     width: 30px;
     height: 30px;
-    margin-left: 15px;
-    margin-right: 5px;
 
 }
 .footer li{
